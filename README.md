@@ -8,7 +8,7 @@
 
 ```bash
 $ git clone https://github.com/yasarberk/License-Plate-Detection-with-YOLOv5
-$ cd License-Plate-Detection-with-YOLOv5-main
+$ cd License-Plate-Detection-with-YOLOv5
 $ pip install -r requirements.txt
 ```
 
