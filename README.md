@@ -7,8 +7,8 @@
 <!-- $ sudo apt update && apt install -y libgl1-mesa-glx libsm6 libxext6 libxrender-dev -->
 
 ```bash
-$ git clone https://github.com/ultralytics/yolov5
-$ cd yolov5
+$ git clone https://github.com/yasarberk/License-Plate-Detection-with-YOLOv5
+$ cd License-Plate-Detection-with-YOLOv5
 $ pip install -r requirements.txt
 ```
 
@@ -16,9 +16,6 @@ $ pip install -r requirements.txt
 
 <details>
 <summary>Inference with detect.py</summary>
-
-`detect.py` runs inference on a variety of sources, downloading models automatically from
-the [latest YOLOv5 release](https://github.com/ultralytics/yolov5/releases) and saving results to `runs/detect`.
 
 ```bash
 $ python detect.py --source 0  # webcam
